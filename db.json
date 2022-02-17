@@ -2,6 +2,8 @@
     "students" : [{
         "id"   : 1,
         "name" : "Ariful Islam",
+        "roll" : 1,
+        "reg" : 1996,
         "age"  : 25,
         "cls"  : 10,
         "ban"  : 70,
@@ -16,6 +18,8 @@
         {
         "id"   : 2,
         "name" : "Asraful Haque",
+        "roll" : 2,
+        "reg" : 1996,
         "cls"  : 10,
         "age"  : 38,
         "ban"  : 70,
@@ -31,6 +35,8 @@
         {
         "id"   : 3,
         "name" : "Zunayet Ahmed",
+        "roll" : 3,
+        "reg" : 1996,
         "cls"  : 10,
         "age"  : 16,
         "ban"  : 70,
@@ -45,6 +51,8 @@
         {
         "id"   : 4,
         "name" : "Robiul Islam",
+        "roll" : 4,
+        "reg" : 1996,
         "cls"  : 10,
         "age"  : 16,
         "ban"  : 70,
@@ -60,6 +68,8 @@
        {
         "id"   : 5,
         "name" : "Jillur Rahman",
+        "roll" : 5,
+        "reg" : 1996,
         "cls"  : 10,
         "age"  : 15,
         "ban"  : 70,
@@ -75,6 +85,8 @@
        {
         "id"   : 6,
         "name" : "Abu Bakkar Siddik",
+        "roll" : 6,
+        "reg" : 1996,
         "cls"  : 10,
         "age"  : 15,
         "ban"  : 70,
@@ -89,6 +101,8 @@
         {
         "id"   : 7,
         "name" : "Rezwan Ahmed",
+        "roll" : 7,
+        "reg" : 1996,
         "cls"  : 10,
         "age"  : 17,
         "ban"  : 70,
@@ -104,6 +118,8 @@
         {
         "id"   : 8,
         "name" : "Maruful Haque",
+        "roll" : 8,
+        "reg" : 1996,
         "cls"  : 10,
         "age"  : 17,
         "ban"  : 70,
@@ -119,6 +135,8 @@
          {
         "id"   : 9,
         "name" : "Nurul Islam",
+        "roll" : 9,
+        "reg" : 1996,
         "cls"  : 10,
         "age"  : 16,
         "ban"  : 70,
@@ -133,6 +151,8 @@
         {
         "id"   : 10,
         "name" : "Al-Amin Hossain",
+        "roll" : 10,
+        "reg" : 1996,
         "cls"  : 10,
         "age"  : 16,
         "ban"  : 70,
@@ -148,6 +168,8 @@
          {
         "id"   : 11,
         "name" : "Azizar R. Nayon",
+        "roll" : 11,
+        "reg" : 1996,
         "cls"  : 10,
         "age"  : 16,
         "ban"  : 70,
@@ -163,6 +185,8 @@
         {
         "id"   : 12,
         "name" : "Jamadul Remon",
+        "roll" : 12,
+        "reg" : 1996,
         "cls"  : 10,
         "age"  : 16,
         "ban"  : 70,
@@ -178,6 +202,8 @@
          {
         "id"   : 13,
         "name" : "Md Rasel Sarker",
+        "roll" : 13,
+        "reg" : 1996,
         "cls"  : 10,
         "age"  : 16,
         "ban"  : 70,
@@ -193,6 +219,8 @@
         {
         "id"   : 14,
         "name" : "Rupa Roy",
+        "roll" : 14,
+        "reg" : 1996,
         "cls"  : 10,
         "age"  : 16,
         "ban"  : 70,
@@ -207,6 +235,8 @@
     {
         "id"   : 15,
         "name" : "Mukti Mukta",
+        "roll" : 15,
+        "reg"  : 1996,
         "cls"  : 10,
         "age"  : 16,
         "ban"  : 70,
