@@ -1,0 +1,14 @@
+{
+  "name": "students_api",
+  "version": "1.0.0",
+  "description": "This is Students Data Base in json Server",
+  "main": "index.js",
+  "scripts": {
+    "stdData": "json-server --watch db.json --port 4040"
+  },
+  "author": "Ariful Islam Noyon",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
