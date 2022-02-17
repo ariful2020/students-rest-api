@@ -247,7 +247,23 @@
         "rel"  : 78,
         "dist" : "Sirajganj",
         "img"  : "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cG9ydHJhaXR8ZW58MHx8MHx8&w=1000&q=80"
-           }       
+           },
+           {
+        "id"   : 4,
+        "name" : "Robiul Islam",
+        "roll" : 4,
+        "reg" : 1996,
+        "cls"  : 10,
+        "age"  : 16,
+        "ban"  : 70,
+        "eng"  : 65,
+        "math" : 80,
+        "sci"  : 78,
+        "ssci"  : 75,
+        "rel"  : 78,
+        "dist" : "Comilla",
+        "img"  : "https://media.istockphoto.com/photos/indoor-photo-of-handsome-european-guy-pictured-isolated-on-grey-to-picture-id1034357476?k=20&m=1034357476&s=612x612&w=0&h=OpiBGaVDU02LI1WVpb02Wza6AAdTGopRpf0Kx6q8V-Q="
+           }      
 ]
  
 }
